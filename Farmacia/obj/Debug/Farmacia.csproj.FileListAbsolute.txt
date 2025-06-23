@@ -1,0 +1,12 @@
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.Form1.resources
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.exe.config
+C:\Users\aleji\OneDrive\Documents\ESPECIALIZACION\Repositorios\Farmacia .Net\Farmacia\Farmacia\obj\Debug\Farmacia.ResumenForm.resources
