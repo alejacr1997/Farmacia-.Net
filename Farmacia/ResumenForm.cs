@@ -24,7 +24,7 @@ namespace Farmacia
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Pedido enviado");
+            MessageBox.Show("Pedido enviado","Pedido");
             this.Close();
         }
 
